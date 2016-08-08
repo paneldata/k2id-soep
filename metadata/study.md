@@ -1,3 +1,11 @@
+---
+name: soep-k2id
+label: SOEP K2ID
+config:
+    variables:
+        label-table: True
+---
+
 # SOEP K2ID
 
 ## Citation
