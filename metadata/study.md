@@ -3,9 +3,7 @@ Citation
 ========
 
 -   Study name: k2id-soep 
-
 -   Label: K²ID-SOEP extension study 
-
 -   Citation guideline: Researchers working with the K²ID-SOEP extension study
     are obligated to mention their use of the data within their publication,
     e.g., in the acknowledgements, by using the following reference: 
@@ -21,15 +19,10 @@ Citation
     Georg F. Camehl (2017): "The Early Childhood Education and Care Quality in
     the Socio-Economic Panel (SOEP-ECEC Quality) Study - K²ID-SOEP Data”, Data
     Documentation 91, Berlin: DIW Berlin.
-
 -   Persistent identifier: 10.5684/k2id-soep-2013-15/v1 
-
 -   Investigators/authors 
-
     -   Pia S. Schober, C. Katharina Spieß (PIs of the project)  
-
     -   Further researchers: Juliane F. Stahl, Georg F. Camehl 
-
 -   URL: [http://www.k2id.de/](http://www.k2id.de/) 
 
 
