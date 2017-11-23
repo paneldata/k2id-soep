@@ -1,3 +1,10 @@
+---
+name: k2id-soep
+label: K2ID-SOEP extension study 
+config:
+    variables:
+        label_table: True
+---
 
 Citation
 ========
